@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
+<!-- CreationDate: Thu Sep 29 12:23:51 2011 -->
+<!-- Magnification: 1.050 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="0.5in" height="0.4in" viewBox="188 220 614 523">
+<g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Image -->
+<image xlink:href="/home/romanp/Activities/Lucas2/Lucas.activity/activity/Lucas.png" preserveAspectRatio="none"
+x="188" y="283" width="614" height="460" />
+<!-- Text -->
+<text xml:space="preserve" x="330" y="708" stroke="#ff0000" fill="#ff0000"  font-family="Times" font-style="normal" font-weight="normal" font-size="492" text-anchor="start">?</text>
+<!-- Text -->
+<g transform="translate(330,519) rotate(-11.00078967)" >
+<text xml:space="preserve" x="0" y="0" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="152" text-anchor="start">2+2</text>
+</g><!-- Text -->
+<g transform="translate(330,614) rotate(-339.00193865)" >
+<text xml:space="preserve" x="0" y="0" stroke="#0000d1" fill="#0000d1"  font-family="Times" font-style="normal" font-weight="normal" font-size="101" text-anchor="start">29-6</text>
+</g></g>
+</svg>

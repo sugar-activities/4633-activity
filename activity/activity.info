@@ -1,0 +1,7 @@
+[Activity]
+name = MathTest
+service_name = org.laptop.LucasActivity
+class = LucasActivity.LucasActivity
+icon = activity-gtktest
+activity_version = 1
+show_launcher = yes
